@@ -10,6 +10,9 @@
 2) Copy all .java files and the symbol image into your IDE
 3) Run CalculatorLauncher.java
 
+# UI Preview #
+![](https://github.com/asemshaath/Crypting_Machine/blob/main/Screenshots/Encrypting%20Ceasar.png)
+
 # About #
 This a Java program that encrypt and decrypt a given word using two diffrent cipher. ***Ceasar cipher***, and ***Bellaso cipher***
 
