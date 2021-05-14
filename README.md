@@ -33,5 +33,8 @@ Let's try to to encrypt the word "GITHUB" again. But, we will be using the word 
 The word "GUTHUB" will be encrypted to "KJ(IYC".
 When we use any string cyber key, the cyber key will be either extended or shrinked depends on the length of the given word. In our case, the cyber key will be changed to "DATADAT" to match the length of the word "GITHUB" Then, the program will go over every character in the given word and the new cyber key to add there ascii codes together and generate the encrpyted string.  
 
+# Testing #
+To test the app, all you need to do is running the EvaluationTest.java.
+
 # Contribution #
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. If you find any issue just put it in the repository issue section, thank you.
