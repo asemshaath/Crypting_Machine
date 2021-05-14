@@ -1,3 +1,15 @@
+# How to install? #
+### Requirmnets ###
+1) Java 15+
+2) Java FX 11+
+3) JUnit 5 (if you want to test)
+4) An IDE e.g.(IntelliJ, Eclipse)
+
+### Steps ###
+1) Clone this repo
+2) Copy all .java files and the symbol image into your IDE
+3) Run CalculatorLauncher.java
+
 # Crypting_Machine
 This a Java program that encrypt and decrypt a given word using two diffrent cipher. Ceasar cipher, and Bellaso cipher
 
