@@ -10,13 +10,13 @@
 2) Copy all .java files and the symbol image into your IDE
 3) Run CalculatorLauncher.java
 
-# Crypting_Machine
-This a Java program that encrypt and decrypt a given word using two diffrent cipher. Ceasar cipher, and Bellaso cipher
+# About #
+This a Java program that encrypt and decrypt a given word using two diffrent cipher. ***Ceasar cipher***, and ***Bellaso cipher***
 
-# Ceasar_Cipher
+## Ceasar_Cipher ##
 Using an integer cyber key. 
 
-# Bellaso_Cipher
+## Bellaso_Cipher ##
 Using a string cyber key. 
 
 # Example_on_Using_Ceasar_Cipher
