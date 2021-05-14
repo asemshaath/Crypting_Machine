@@ -31,7 +31,7 @@ When we use any string cyber key, the cyber key will be either extended or shrin
 ### Steps ###
 1) Clone this repo
 2) Copy all .java files into your IDE
-3) Run CalculatorLauncher.java
+3) Run CryptoDriver.java
 
 # Testing #
 To test the app, all you need to do is running the CryptingTest.java
